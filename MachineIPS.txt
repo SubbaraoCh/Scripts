@@ -1,0 +1,23 @@
+Dev Box IP: 18.220.140.211
+QA IP  : 52.15.133.49
+
+/var/lib/jenkins/secrets/initialAdminPassword
+
+
+Sonar Qube: http://13.229.53.36:9000/
+Artifactory URL: https://artifact.jfrog.io/artifact/webapp/
+
+
+https://github.com/SubbaraoCh/WebApp.git
+
+http://52.15.133.49:8080/QAWebapp
+
+
+
+Add the below in Global Credentials in Jenkins
+
+API Key Id:
+4126e769258d451f5b57c461
+
+API Key Secret:
+824ac9c94e2d727d9a28ec7301b9a4caf30d99f2930af5adc6d019bc2b622d73ed7d9bde
